@@ -1,0 +1,10 @@
+project_id = "bbasqemmmrggdohhozyv"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.summarize-notes]
+verify_jwt = false
+
+[functions.generate-quiz]
+verify_jwt = false
